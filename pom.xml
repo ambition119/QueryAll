@@ -48,7 +48,7 @@
     <druid.version>1.1.10</druid.version>
     <pagehelper>1.1.1</pagehelper>
     <commons-lang3>3.7</commons-lang3>
-    <fastjson>1.2.47</fastjson>
+    <fastjson>1.2.83</fastjson>
     <swagger.version>2.9.2</swagger.version>
     <lombok.version>1.18.0</lombok.version>
     <slf4j.version>1.7.7</slf4j.version>
